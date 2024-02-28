@@ -1,0 +1,39 @@
+#container {
+    border: none;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding-top: 100px;
+    margin: auto;
+  }
+  .images {
+    border: none;
+    border: none;
+    margin: auto;
+    border-right: solid 3px purple;
+  }
+  .form {
+    border: none;
+    margin-left: 200px;
+  }
+  .button {
+    padding: 12px 12px;
+    width: 70%;
+    border: solid 1px;
+    border-radius: 5px;
+    color: white;
+    background-color: purple;
+  }
+  .input {
+    padding: 12px 12px;
+    width: 70%;
+    border-radius: 5px;
+  }
+  .icons {
+    display: grid;
+    grid-template-columns: 20% 20% 20%;
+    padding-left: 80px;
+  }
+  .names {
+    display: grid;
+    grid-template-columns: 40% 40%;
+  }
